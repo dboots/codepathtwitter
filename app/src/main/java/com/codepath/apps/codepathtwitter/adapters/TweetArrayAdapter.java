@@ -1,6 +1,8 @@
 package com.codepath.apps.codepathtwitter.adapters;
 
 import android.content.Context;
+import android.databinding.DataBindingUtil;
+import android.databinding.ViewDataBinding;
 import android.text.format.DateUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,7 +36,6 @@ public class TweetArrayAdapter extends ArrayAdapter<Tweet> {
 
         if (convertView == null) {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.item_tweet, parent, false);
-
             viewHolder = new ViewHolder(convertView);
             convertView.setTag(viewHolder);
         } else {

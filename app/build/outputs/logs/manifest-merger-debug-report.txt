@@ -40,6 +40,8 @@ MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/project
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/src/main/AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -123,6 +125,11 @@ MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/don/Doc
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.jakewharton:butterknife:8.2.1] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.databinding:library:1.1] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.databinding:adapters:1.1] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.1] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/don/Documents/projects/Labs/Android/CodePathTwitter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
